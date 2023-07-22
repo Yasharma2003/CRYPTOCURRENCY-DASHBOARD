@@ -4,7 +4,7 @@
 Power BI is a cloud-based business analytics service from Microsoft that enables anyone to visualize and analyze data, with better speed and efficiency. It is a powerful as well as a flexible tool for connecting with and analyzing a wide variety of data. Many businesses even consider it indispensable for data-science-related work. Power BI’s ease of use comes from the fact that it has a drag and drop interface. This feature helps to perform tasks like sorting, comparing and analyzing, very easily and fast. Power BI is also compatible with multiple sources, including Excel, SQL Server, and cloud-based data repositories which makes it an excellent choice for Data Scientists.
 
 # Features of Dashboard:
-# The dashboard can be used to do real time data analysis and visualization of few of the most famous cryptocurrencies like:
+The dashboard can be used to do real time data analysis and visualization of few of the most famous cryptocurrencies like:
 
 1)Bitcoin
 2)Ethereum
